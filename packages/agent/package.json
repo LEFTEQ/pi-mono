@@ -17,8 +17,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@mariozechner/pi-ai": "^0.50.9",
-		"@mariozechner/pi-tui": "^0.50.9"
+		"@mariozechner/pi-ai": "workspace:*",
+		"@mariozechner/pi-tui": "workspace:*"
 	},
 	"keywords": [
 		"ai",

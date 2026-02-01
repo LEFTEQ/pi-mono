@@ -18,8 +18,8 @@
 	},
 	"dependencies": {
 		"@lmstudio/sdk": "^1.5.0",
-		"@mariozechner/pi-ai": "^0.50.9",
-		"@mariozechner/pi-tui": "^0.50.9",
+		"@mariozechner/pi-ai": "workspace:*",
+		"@mariozechner/pi-tui": "workspace:*",
 		"docx-preview": "^0.3.7",
 		"jszip": "^3.10.1",
 		"lucide": "^0.544.0",
